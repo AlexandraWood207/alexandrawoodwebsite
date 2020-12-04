@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
+
+#welcome-bg {
+    background: url("labrador_dog_funny_animals_cute_animals_4k_27910-2560x1080.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+.welcome-head {
+    font-size: 70px;
+    color: white;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.coding {
+    color: whitesmoke;
+    font-size: x-large;
+    font-style: normal;
+}
+
+.software {
+    color: whitesmoke;
+
+}
+
+
+.imposter-cookie {
+    background: url("snowydoggy.jpg") no-repeat;
+    background-size: cover;
+}
+
+.nav {
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+    padding: 30px 30px;
+    margin: 30px;
+    background: rgb(252, 161, 225, 0.4);
+}
+
+.chickenriddle {
+    color: white;
+
+}
+
+.center-me {
+    text-align: center;
+    font-size: 50px;
+}
+
+.about-cookie {
+    color: hsl(240, 57%, 89%);
+    text-align: center;
+    padding: 50px;
+    padding: 30px 30px;
+    margin: 30px;
+    background-color: rgb(0, 0, 0, 0.7);
+}
+
+.voldermort-place-where-i-live {
+    background: url("pexels-photo-510880.jpeg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+.tea-bg {
+    background: url("92-923474_lemon-tea-wallpaper-hd.jpg") no-repeat center;
+    background-size: cover;
+}
+
+.aboutme-text {
+    text-align: center;
+    color: white;
+    font-size: x-large;
+    padding: 15px;
+
+}
+
+
+img {
+    height: 5%;
+    width: 5%;
+
+}
+
+* {
+    font-family: 'Handlee', cursive;
+}
+
+.herbal-tea {
+    color: white;
+}
+
+.just-easy {
+    color: rgb(190, 255, 59);
+}
+
+.i-love-tea {
+    color: yellow;
+}
+
+.ingredients {
+    color: rgba(255, 255, 255, 0.377);
+}
+
+.tea-list {
+    color: rgba(255, 255, 255, 0.575);
+}
+
+.tea-prep {
+    color: hsl(76, 58%, 4%);
+}
+
+.more-prep {
+    color: rgb(19, 13, 7);
+}
+
+.acnh {
+    color: hotpink;
+    font-size: 38px;
+    font-style: oblique;
+    padding: 10px;
+
+}
+
+.animalcrossing-bg {
+    background: url("animalcrossingbackground.jpg") no-repeat center center fixed;
+    background-size: cover;
+
+}
+
+.acnhpics img {
+    height: 100%;
+    width: 100%;
+
+}
